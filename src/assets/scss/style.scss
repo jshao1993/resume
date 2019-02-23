@@ -1,0 +1,10 @@
+$fa-font-path :"~font-awesome/fonts";
+@import "~pea-styles/scss/variable.scss";
+@import "~pea-styles/scss/pea-class.scss";
+@import "~font-awesome/scss/font-awesome.scss";
+
+body{
+    background-color:$peaBlank;
+    background-image: url("//public.pea3nut.org/img/uchu01.bg.jpg");
+    font-family: Georgia, serif;
+}
