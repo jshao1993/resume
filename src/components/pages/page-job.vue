@@ -197,14 +197,6 @@
                 - 密码：dsadmin
             </block-justify-row>
         </block-justify>
-
-        <!-- <block-collapsible lang="md" title="其他链接" class="other-link po-print-hidden">
-
-            - [花生PeA in Github](https://github.com/pea3nut)
-            - [花生PeAの博客](http://blog.pea3nut.com)
-            - [花生PeA in 掘金](https://juejin.im/user/58fed8a7a22b9d0065b13e30)
-
-        </block-collapsible> -->
     </div>
 </template>
 
